@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Chat_Firebase</string>
+    <string name="account_settings">account_settings</string>
+    <string name="all_users">all_users</string>
+    <string name="logout">logout</string>
+    <string name="login_to_your_account">login_to_your_account</string>
+    <string name="login_into">login_into_account</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="display_name">display_name</string>
+    <string name="age">age</string>
+    <string name="city">city</string>
+    <string name="create">create_account</string>
+    <string name="already_a_member">already_a_member</string>
+    <string name="create_new_account">Create new Account</string>
+</resources>
